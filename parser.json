@@ -1,8 +1,9 @@
 {
   "lang": "beancount",
+  "generate": null,
+  "generate_from_json": null,
   "url": "https://github.com/polarmutex/tree-sitter-beancount",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
+  "parser_version": "429cff869513cf9e34a2cf604fbfaaedc467e809",
   "location": null
 }
